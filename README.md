@@ -34,3 +34,7 @@
     > https://www.curseforge.com/minecraft/mc-mods/tumbleweed
 - Chance Cubes
     > https://www.curseforge.com/minecraft/mc-mods/chance-cubes
+- Better Animals Plus
+    > https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
+- Skillable
+    > https://www.curseforge.com/minecraft/mc-mods/skillable
