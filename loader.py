@@ -18,15 +18,15 @@ print(last_tag, "/", cached_tag)
 
 if cached_tag != last_tag:
     print(f"Downloading from ' https://github.com/{REPO}/releases/download/{last_tag}/server_mods.tar.gz '...")
-    
+
     subprocess.run(["rm", "-rf", "server/mods"])
     subprocess.run(["rm", "-rf", "server/config"])
     subprocess.run(["rm", "-rf", "server/scripts"])
 
     subprocess.run([
-        "curl", "-L", "-o", "last.tar.gz", f"https://github.com/{REPO}/releases/download/{last_tag}/server_mods.tar.gz"
+        "curl", "-L", "-o", "last.tar.gz", f"https://github.com/{REPO}/releases/download/{last_tag}/server_mods.tar.xz"
     ])
-    subprocess.run(["tar", "-xzvf", "last.tar.gz", "-C", "server/"])
+    subprocess.run(["tar", "-xJvf", "last.tar.xz", "-C", "server/", "--strip-components=1"])
     subprocess.run(["rm", "last.tar.gz"])
 
     with open("modpack.cache", "w", encoding="utf-8") as file:
