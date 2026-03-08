@@ -56,3 +56,5 @@
     > https://modrinth.com/mod/forgified-fabric-api?version=1.20.1&loader=forge#download
 - Sinytra Connector
     > https://modrinth.com/mod/connector?version=1.20.1&loader=forge
+- Naturalist Lite
+    > https://www.curseforge.com/minecraft/mc-mods/naturalist
