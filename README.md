@@ -9,9 +9,7 @@
 - Jade 
     > https://www.curseforge.com/minecraft/mc-mods/jade
 
-# Список серверных модов- 
-- Advent Of Ascension
-    > https://modrinth.com/mod/adventofascension
+# Список серверных модов
 - Biomes O' Plenty
     > https://modrinth.com/mod/biomes-o-plenty
 - Tinkers' Construct
@@ -58,3 +56,11 @@
     > https://modrinth.com/mod/connector?version=1.20.1&loader=forge
 - Naturalist Lite
     > https://www.curseforge.com/minecraft/mc-mods/naturalist
+- Luki's Grand Capitals
+    > https://modrinth.com/datapack/lukis-grand-capitals
+- Iceberg
+    > https://modrinth.com/mod/iceberg
+- Lithostitched
+    > https://modrinth.com/mod/lithostitched
+- Geckolib
+    > https://modrinth.com/mod/geckolib
