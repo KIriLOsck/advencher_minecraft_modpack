@@ -38,7 +38,7 @@ else:
 
 print("Checking if server-core exist...")
 files = os.listdir("server")
-if "minecraft_server.1.12.2.jar" in files:
+if "minecraft_server.1.20.1.jar" in files:
     print("Done!")
 else:
     print("Not exist! Downloading...")
