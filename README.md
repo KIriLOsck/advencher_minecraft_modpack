@@ -6,10 +6,8 @@
     > https://modrinth.com/mod/advancement-plaques
 - Better Third Person
     > https://www.curseforge.com/minecraft/mc-mods/better-third-person
-- Realistic Item Drops
-    >https://www.curseforge.com/minecraft/mc-mods/realistic-item-drops
-- Hwyla
-    > https://www.curseforge.com/minecraft/mc-mods/hwyla
+- Jade 
+    > https://www.curseforge.com/minecraft/mc-mods/jade
 
 # Список серверных модов- 
 - Advent Of Ascension
@@ -28,10 +26,6 @@
     > https://www.curseforge.com/minecraft/mc-mods/creativecore
 - Project: Vibrant Journeys
     > https://modrinth.com/mod/project-vibrant-journeys
-- Enchanting Plus
-    > https://modrinth.com/mod/enchanting-plus
-- Bookshelf
-    > https://www.curseforge.com/minecraft/mc-mods/bookshelf
 - Let Your Friend Eating!
     > https://modrinth.com/mod/let-your-friend-eating!
 - Serene Seasons
@@ -40,8 +34,8 @@
     > https://www.curseforge.com/minecraft/mc-mods/tumbleweed
 - Chance Cubes
     > https://www.curseforge.com/minecraft/mc-mods/chance-cubes
-- Better Animals Plus
-    > https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
+- Tectonic
+    > https://www.curseforge.com/minecraft/mc-mods/tectonic
 - CraftTweaker
     > https://modrinth.com/mod/crafttweaker
 - Useful Backpacks
@@ -52,3 +46,13 @@
     > https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
 - Infinite Abyss
     > https://www.curseforge.com/minecraft/mc-mods/infinite-abyss
+- TerraBlender (Forge)
+    > https://www.curseforge.com/minecraft/mc-mods/terrablender
+- GlitchCore
+    > https://www.curseforge.com/minecraft/mc-mods/glitchcore
+- Cloth Config API
+    > https://modrinth.com/mod/cloth-config?version=1.20.1&loader=forge
+- Forgified Fabric API
+    > https://modrinth.com/mod/forgified-fabric-api?version=1.20.1&loader=forge#download
+- Sinytra Connector
+    > https://modrinth.com/mod/connector?version=1.20.1&loader=forge
