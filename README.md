@@ -1,4 +1,5 @@
-# Список клиентских модов
+# Версия игры `Forge-1.20.1`
+## Список клиентских модов
 
 - Just Enough Items (JEI)
     > https://modrinth.com/mod/jei
@@ -9,7 +10,7 @@
 - Jade 
     > https://www.curseforge.com/minecraft/mc-mods/jade
 
-# Список серверных модов
+## Список серверных модов
 - Biomes O' Plenty
     > https://modrinth.com/mod/biomes-o-plenty
 - Tinkers' Construct
