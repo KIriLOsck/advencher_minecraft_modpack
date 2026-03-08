@@ -8,6 +8,8 @@
     > https://www.curseforge.com/minecraft/mc-mods/better-third-person
 - Realistic Item Drops
     >https://www.curseforge.com/minecraft/mc-mods/realistic-item-drops
+- Hwyla
+    > https://www.curseforge.com/minecraft/mc-mods/hwyla
 
 # Список серверных модов- 
 - Advent Of Ascension
@@ -24,8 +26,6 @@
     > https://www.curseforge.com/minecraft/mc-mods/playerrevive
 - CreativeCore
     > https://www.curseforge.com/minecraft/mc-mods/creativecore
-- The Midnight
-    > https://modrinth.com/mod/the-midnight
 - Project: Vibrant Journeys
     > https://modrinth.com/mod/project-vibrant-journeys
 - Enchanting Plus
@@ -48,3 +48,7 @@
     > https://www.curseforge.com/minecraft/mc-mods/useful-backpacks
 - U Team Core
     > https://www.curseforge.com/minecraft/mc-mods/u-team-core
+- Immersive Portals
+    > https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
+- Infinite Abyss
+    > https://www.curseforge.com/minecraft/mc-mods/infinite-abyss
