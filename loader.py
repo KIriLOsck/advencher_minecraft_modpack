@@ -18,7 +18,11 @@ print(last_tag, "/", cached_tag)
 
 if cached_tag != last_tag:
     print(f"Downloading from ' https://github.com/{REPO}/releases/download/{last_tag}/server_mods.tar.gz '...")
+    
     subprocess.run(["rm", "-rf", "server/mods"])
+    subprocess.run(["rm", "-rf", "server/config"])
+    subprocess.run(["rm", "-rf", "server/scripts"])
+
     subprocess.run([
         "curl", "-L", "-o", "last.tar.gz", f"https://github.com/{REPO}/releases/download/{last_tag}/server_mods.tar.gz"
     ])
