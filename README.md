@@ -16,16 +16,22 @@
     > https://modrinth.com/mod/biomes-o-plenty
 - Tinkers' Construct
     > https://modrinth.com/mod/tinkers-construct
+- Mantle
+    > https://www.curseforge.com/minecraft/mc-mods/mantle
 - FirstAid
     > https://modrinth.com/mod/firstaid
 - PlayerRevive
     > https://www.curseforge.com/minecraft/mc-mods/playerrevive
+- CreativeCore
+    > https://www.curseforge.com/minecraft/mc-mods/creativecore
 - The Midnight
     > https://modrinth.com/mod/the-midnight
 - Project: Vibrant Journeys
     > https://modrinth.com/mod/project-vibrant-journeys
 - Enchanting Plus
     > https://modrinth.com/mod/enchanting-plus
+- Bookshelf
+    > https://www.curseforge.com/minecraft/mc-mods/bookshelf
 - Let Your Friend Eating!
     > https://modrinth.com/mod/let-your-friend-eating!
 - Serene Seasons
@@ -36,5 +42,9 @@
     > https://www.curseforge.com/minecraft/mc-mods/chance-cubes
 - Better Animals Plus
     > https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
-- Skillable
-    > https://www.curseforge.com/minecraft/mc-mods/skillable
+- CraftTweaker
+    > https://modrinth.com/mod/crafttweaker
+- Useful Backpacks
+    > https://www.curseforge.com/minecraft/mc-mods/useful-backpacks
+- U Team Core
+    > https://www.curseforge.com/minecraft/mc-mods/u-team-core
